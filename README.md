@@ -3,6 +3,7 @@ List of talks or session given by me in multiple meetup or conferences or virtua
 
 ## 2024 
 - [PGConf India 2024 - PostGIS](2024/PGConf-India-2024)
+- [GDSC Meetup 2024](2024/GDSC)
 
 ## 2023 
 - [ACD Dehradun 2023](2023/ACD-Dehradun-2023)
