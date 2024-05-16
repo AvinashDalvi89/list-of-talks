@@ -4,8 +4,9 @@ List of talks or session given by me in multiple meetup or conferences or virtua
 ## 2024 
 - AWS Summit India 2023 - Developer Lounge - [When Lambda Isn't Enough: Leveraging AWS Fargate for Advanced Serverless
 ](2024/AWS-Summit-India-2024)
-- [PGConf India 2024 - PostGIS](2024/PGConf-India-2024)
-- [GDSC Meetup 2024](2024/GDSC)
+- PGConf India 2024 - PostGIS - [Harnessing the Power of Postgres for GIS](2024/PGConf-India-2024)
+- FOSS Asia Summit 2024 ( Hanoi ) - PGDay [Harnessing the Power of Postgres for GIS](2024/PGConf-India-2024)
+- GDSC Meetup 2024(Online) - [From Sketch to Screen: Building Your First Webpage](2024/GDSC)
 
 ## 2023 
 - [ACD Dehradun 2023](2023/ACD-Dehradun-2023)
