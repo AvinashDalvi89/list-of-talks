@@ -20,10 +20,12 @@ List of talks or session given by me in multiple meetup or conferences or virtua
 
 ## 2022
 - [ACD Pune 2022](2022/ACD-Pune-2022)
+- DevSecOps Conf 2022 (Online) - [Why is security important in infrastructure as code](https://www.youtube.com/watch?v=upBfwP7CYvo&t=15750s)
 
 ## 2021
 - Mauticon 2021 :  [How to create a custom plugin in Mautic ](https://slides.com/avinashdalvi/mautic-custom-plugin-creation)
 - JAWS PANKRATION 2021 - [Host static website using AWS Amplify](https://www.youtube.com/watch?v=TQhvghXJDnY)
+- NgKenya Online meetup - [Angular Hosting and Deployment on AWS S3 + CloudFront](https://www.youtube.com/watch?v=LLhAuUM0iU0)
 
 ## 2020
 - [Full stack developer experience sharing with students of SSPM College of engineering](https://slides.com/avinashdalvi/experience-sharing-about-full-stack-developer)
@@ -31,3 +33,4 @@ List of talks or session given by me in multiple meetup or conferences or virtua
 - [NG Keralam 2020 Online Meetup](https://twitter.com/ng_keralam) - [Static hosting of Angular build using AWS Amplify](https://slides.com/avinashdalvi/static-hosting-of-angular-build-using-aws-amplify)
 - [NG Poland Online Meetup](https://twitter.com/ngPolandConf) - [Share cookies or local storage data between cross domain in Angular ?](https://slides.com/avinashdalvi/ng-poland-conf-share-cookies-or-local-storage-data-between-cross-domain-in-angular)
 - [JS and Friends Conference Online Meetup](https://twitter.com/JSFriendsConf) - [Share cookies or local storage data between cross domain in Angular ?](https://slides.com/avinashdalvi/share-cookie-or-local-storage-data-between-cross-domain-in-angular)
+- Angular Online Meetup 2020 - [Angular Hosting and Deployment on AWS S3 + CloudFront]([https://www.youtube.com/watch?v=LLhAuUM0iU0](https://www.youtube.com/watch?v=3PixdVtgqK8&t=2514s))
