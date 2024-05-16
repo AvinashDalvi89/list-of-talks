@@ -2,6 +2,8 @@
 List of talks or session given by me in multiple meetup or conferences or virtual event. 
 
 ## 2024 
+- AWS Summit India 2023 - Developer Lounge - [When Lambda Isn't Enough: Leveraging AWS Fargate for Advanced Serverless
+](2024/AWS-Summit-India-2024)
 - [PGConf India 2024 - PostGIS](2024/PGConf-India-2024)
 - [GDSC Meetup 2024](2024/GDSC)
 
@@ -20,6 +22,7 @@ List of talks or session given by me in multiple meetup or conferences or virtua
 
 ## 2021
 - Mauticon 2021 :  [How to create a custom plugin in Mautic ](https://slides.com/avinashdalvi/mautic-custom-plugin-creation)
+- JAWS PANKRATION 2021 - [Host static website using AWS Amplify](https://www.youtube.com/watch?v=TQhvghXJDnY)
 
 ## 2020
 - [Full stack developer experience sharing with students of SSPM College of engineering](https://slides.com/avinashdalvi/experience-sharing-about-full-stack-developer)
