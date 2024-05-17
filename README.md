@@ -16,11 +16,11 @@ List of talks or session given by me in multiple meetup or conferences or virtua
 - AWS UG Nepal (She build 2023) -  [How to create content](2023/AWS-UG-Nepal-She-Build-2023)
 - Cloud Security and Observability meetup  - [Data Ingestion & their best practices](2023/Cloud-Security-&-Observability-Data-Meetup)
 - Docker Bangalore Meetup (August) - [ Docker Scout Integration with CICD ](2023/Docker-Bangalore-Meetup-August-2023-Docker-Wasm)
-- LocalStack Meetup - [Navigating Streamlined Docker container Deployment on AWS](2023/LocalStack-Meetup-2023)
+- LocalStack Meetup Bangalore- [Navigating Streamlined Docker container Deployment on AWS](2023/LocalStack-Meetup-2023)
 - Collabnix meetup ( Online ) - [Navigating the Cloud - Streamlined Docker container Deployment on AWS](https://www.youtube.com/watch?v=z8WSQblxTvo)
 
 ## 2022
-- [ACD Pune 2022](2022/ACD-Pune-2022)
+- ACD Pune 2022 - [Building virtual photobooth with AWS Amplify ](2022/ACD-Pune-2022)
 - DevSecOps Conf 2022 (Online) - [Why is security important in infrastructure as code](https://www.youtube.com/watch?v=upBfwP7CYvo&t=15750s)
 
 ## 2021
