@@ -34,4 +34,4 @@ List of talks or session given by me in multiple meetup or conferences or virtua
 - [NG Keralam 2020 Online Meetup](https://twitter.com/ng_keralam) - [Static hosting of Angular build using AWS Amplify](https://slides.com/avinashdalvi/static-hosting-of-angular-build-using-aws-amplify)
 - [NG Poland Online Meetup](https://twitter.com/ngPolandConf) - [Share cookies or local storage data between cross domain in Angular ?](https://slides.com/avinashdalvi/ng-poland-conf-share-cookies-or-local-storage-data-between-cross-domain-in-angular)
 - [JS and Friends Conference Online Meetup](https://twitter.com/JSFriendsConf) - [Share cookies or local storage data between cross domain in Angular ?](https://slides.com/avinashdalvi/share-cookie-or-local-storage-data-between-cross-domain-in-angular)
-- Angular Online Meetup 2020 - [Angular Hosting and Deployment on AWS S3 + CloudFront]([https://www.youtube.com/watch?v=LLhAuUM0iU0](https://www.youtube.com/watch?v=3PixdVtgqK8&t=2514s))
+- Angular Online Meetup 2020 - [Angular Hosting and Deployment on AWS S3 + CloudFront](https://www.youtube.com/live/3PixdVtgqK8?si=v0d9eDDBOvb2XNFj)
