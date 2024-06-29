@@ -7,6 +7,7 @@ List of talks or session given by me in multiple meetup or conferences or virtua
 - PGConf India 2024 - PostGIS - [Harnessing the Power of Postgres for GIS](2024/PGConf-India-2024)
 - FOSS Asia Summit 2024 ( Hanoi ) - PGDay [Harnessing the Power of Postgres for GIS](2024/PGConf-India-2024)
 - GDSC Meetup 2024(Online) - [From Sketch to Screen: Building Your First Webpage](2024/GDSC)
+- PHP meetup ( June 2024) - [Unleash the Power of PHP: AI, ML, Serverless, and Beyond](2024/PHP-Meetup)
 
 ## 2023 
 - ACD Dehradun 2023 - [From diagram to Infrastructure as code](2023/ACD-Dehradun-2023)
