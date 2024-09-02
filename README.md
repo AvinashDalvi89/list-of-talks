@@ -2,6 +2,7 @@
 List of talks or session given by me in multiple meetup or conferences or virtual event. 
 
 ## 2024 
+- Serverless Days Bengaluru 2024 - [Serverless Sherlock- Unveiling the Mysteries of Fargate Debugging](2024/Serverless-Days-BLR-2024)
 - ACD Pune 2024 - [From 24 Hours to 4: How Serverless Transformed Data Ingestion Pipeline](2024/ACD-Pune-2024)
 - AWS Summit India 2023 - Developer Lounge - [When Lambda Isn't Enough: Leveraging AWS Fargate for Advanced Serverless
 ](2024/AWS-Summit-India-2024)
