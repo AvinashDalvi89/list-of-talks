@@ -7,3 +7,7 @@ We'll explore different debugging techniques and performance monitoring strategi
 [Link](https://github.com/AvinashDalvi89/list-of-talks/blob/main/2024/Serverless-Days-BLR-2024/Serverless-sherlock-ServerlessDays-Bengaluru-2024.pdf)
 ### Video 
 TBD
+
+
+## References
+TBD
