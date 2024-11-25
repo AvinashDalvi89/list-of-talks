@@ -2,6 +2,7 @@
 List of talks or session given by me in multiple meetup or conferences or virtual event. 
 
 ## 2024 
+- AWS UG Bangalore meetup - Nov 2024 [Click, Capture, Create: Virtual Photobooth with AWS Amplify](2024/30-days-Amplify-AWS-UG-BLR-Meetup)
 - AWS Community Global Gathering 2024 - [AWS through my eyes : A love letter to S3 and Lambda](2024/AWS-Community-Global-Gathering)
 - Serverless Days Bengaluru 2024 - [Serverless Sherlock- Unveiling the Mysteries of Fargate Debugging](2024/Serverless-Days-BLR-2024)
 - ACD Pune 2024 - [From 24 Hours to 4: How Serverless Transformed Data Ingestion Pipeline](2024/ACD-Pune-2024)
