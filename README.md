@@ -7,7 +7,7 @@ List of talks or session given by me in multiple meetup or conferences or virtua
 - AWS Community Global Gathering 2024 - [AWS through my eyes : A love letter to S3 and Lambda](2024/AWS-Community-Global-Gathering)
 - Serverless Days Bengaluru 2024 - [Serverless Sherlock- Unveiling the Mysteries of Fargate Debugging](2024/Serverless-Days-BLR-2024)
 - ACD Pune 2024 - [From 24 Hours to 4: How Serverless Transformed Data Ingestion Pipeline](2024/ACD-Pune-2024)
-- AWS Summit India 2023 - Developer Lounge - [When Lambda Isn't Enough: Leveraging AWS Fargate for Advanced Serverless
+- AWS Summit India 2024 - Developer Lounge - [When Lambda Isn't Enough: Leveraging AWS Fargate for Advanced Serverless
 ](2024/AWS-Summit-India-2024)
 - PGConf India 2024 - PostGIS - [Harnessing the Power of Postgres for GIS](2024/PGConf-India-2024)
 - FOSS Asia Summit 2024 ( Hanoi ) - PGDay [Harnessing the Power of Postgres for GIS](2024/PGConf-India-2024)
