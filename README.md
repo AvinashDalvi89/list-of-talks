@@ -7,6 +7,7 @@ List of talks or session given by me in multiple meetup or conferences or virtua
 - ACD Kenya ( Virtually presented)  - June 2025 [Beyond Code A Developer's Guide to AWS Cost Awareness & Smart Cloud Decisions](2025/ACD-Kolkata)
 - ACD Oceanic ( Virtually presented)- Aug 2025 [Designing Resilient Microservice Architectures with ECS and Service Connect](2025/ACD-Taiwan)
 - ACD Taiwan ( Virtually presented) - Sept 2025 [Designing Resilient Microservice Architectures with ECS and Service Connect](2025/ACD-Taiwan)
+- AWS UG BLR <> Neo4j Meetup - Sept 2025 [From Friends-of-Friends to Scaling APIs](2025/Sept-Meetup)
 
 ## 2024 
 - AWS UG Bangalore meetup - Nov 2024 [Click, Capture, Create: Virtual Photobooth with AWS Amplify](2024/30-days-Amplify-AWS-UG-BLR-Meetup)
