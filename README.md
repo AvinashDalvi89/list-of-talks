@@ -4,6 +4,9 @@ List of talks or session given by me in multiple meetup or conferences or virtua
 ## 2025
 - CorpCON 2025 - Feb 2025 [Launch Fast, Scale Smart: Building Your First Full-Stack App with Serverless](2025/CorpCon-talk)
 - ACD Kolkata - Apr 2025 [Beyond Code A Developer's Guide to AWS Cost Awareness & Smart Cloud Decisions](2025/ACD-Kolkata)
+- ACD Kenya ( Virtually presented)  - June 2025 [Beyond Code A Developer's Guide to AWS Cost Awareness & Smart Cloud Decisions](2025/ACD-Kolkata)
+- ACD Oceanic ( Virtually presented)- Aug 2025 [Designing Resilient Microservice Architectures with ECS and Service Connect](2025/ACD-Taiwan)
+- ACD Taiwan ( Virtually presented) - Sept 2025 [Designing Resilient Microservice Architectures with ECS and Service Connect](2025/ACD-Taiwan)
 
 ## 2024 
 - AWS UG Bangalore meetup - Nov 2024 [Click, Capture, Create: Virtual Photobooth with AWS Amplify](2024/30-days-Amplify-AWS-UG-BLR-Meetup)
