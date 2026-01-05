@@ -8,7 +8,7 @@ List of talks or session given by me in multiple meetup or conferences or virtua
 - ACD Oceanic ( Virtually presented)- Aug 2025 [Designing Resilient Microservice Architectures with ECS and Service Connect](2025/ACD-Taiwan)
 - ACD Taiwan ( Virtually presented) - Sept 2025 [Designing Resilient Microservice Architectures with ECS and Service Connect](2025/ACD-Taiwan)
 - AWS UG BLR <> Neo4j Meetup - Sept 2025 [From Friends-of-Friends to Scaling APIs](2025/Sept-Meetup)
-- AWS Student Community Day Tirupati 2025 [From Code to Containers Understanding Serverless Beyond Lambda] (2025/ASCD-Tirupati2025)
+- AWS Student Community Day Tirupati 2025 [From Code to Containers Understanding Serverless Beyond Lambda](2025/ASCD-Tirupati2025)
 - AWS Cloud Club at NIT Allahabad Inaugaration event 2025 [AWS & Cloud Ecosystem](2025/AWSCloudClubNITAllahabad)
 - PES University Cloud Champ activation event [How to Start with AWS](2025/PESUniversityCloudChamp)
 
